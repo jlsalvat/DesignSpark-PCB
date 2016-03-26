@@ -1,0 +1,902 @@
+4308R-101||#SIP8=8||@Value=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4308R-102 1K||#SIP8=8||@Value=1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4308R-102 2.2K||#SIP8=8||@Value=2.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4308R-102 4.7K||#SIP8=8||@Value=4.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4308R-102 10K||#SIP8=8||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4308R-102 22K||#SIP8=8||@Value=22K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4308R-102 47K||#SIP8=8||@Value=47K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4308R-102 100||#SIP8=8||@Value=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4308R-102 100K||#SIP8=8||@Value=100K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4308R-102 220||#SIP8=8||@Value=220||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4308R-102 470||#SIP8=8||@Value=470||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 1K||#SIP8=8||@Value=1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 1M||#SIP8=8||@Value=1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 1.5K||#SIP8=8||@Value=1.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 2.2K||#SIP8=8||@Value=2.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 2.7K||#SIP8=8||@Value=2.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 3.3K||#SIP8=8||@Value=3.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 4.7K||#SIP8=8||@Value=4.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 10||#SIP8=8||@Value=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 10K||#SIP8=8||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 22||#SIP8=8||@Value=22||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 22K||#SIP8=8||@Value=22K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 33||#SIP8=8||@Value=33||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 47||#SIP8=8||@Value=47||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 47K||#SIP8=8||@Value=47K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 56||#SIP8=8||@Value=56||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 68||#SIP8=8||@Value=68||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 82||#SIP8=8||@Value=82||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 100||#SIP8=8||@Value=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 100K||#SIP8=8||@Value=100K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 150||#SIP8=8||@Value=150||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 220||#SIP8=8||@Value=220||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 220K||#SIP8=8||@Value=220K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 270||#SIP8=8||@Value=270||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 330||#SIP8=8||@Value=330||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 470||#SIP8=8||@Value=470||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 470K||#SIP8=8||@Value=470K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+4608X-102 680||#SIP8=8||@Value=680||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+N6S||#POT N6V=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 0||#SM0805=2||@Value=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 1.0K||#SM0805=2||@Value=1.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 1M||#SM0805=2||@Value=1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 1.2K||#SM0805=2||@Value=1.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 1.5K||#SM0805=2||@Value=1.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 1.8K||#SM0805=2||@Value=1.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 2.2K||#SM0805=2||@Value=2.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 2.7K||#SM0805=2||@Value=2.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 3.0K||#SM0805=2||@Value=3.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 3.3K||#SM0805=2||@Value=3.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 3.9K||#SM0805=2||@Value=3.9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 4.7K||#SM0805=2||@Value=4.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 5.6K||#SM0805=2||@Value=5.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 6.8K||#SM0805=2||@Value=6.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 8.2K||#SM0805=2||@Value=8.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 9K||#SM0805=2||@Value=9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 10||#SM0805=2||@Value=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 10K||#SM0805=2||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 12||#SM0805=2||@Value=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 12K||#SM0805=2||@Value=12K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 15||#SM0805=2||@Value=15||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 15K||#SM0805=2||@Value=15K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 18||#SM0805=2||@Value=18||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 18K||#SM0805=2||@Value=18K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 22||#SM0805=2||@Value=22||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 22K||#SM0805=2||@Value=22K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 27||#SM0805=2||@Value=27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 27K||#SM0805=2||@Value=27K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 33||#SM0805=2||@Value=33||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 39||#SM0805=2||@Value=39||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 47||#SM0805=2||@Value=47||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 47K||#SM0805=2||@Value=47K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 56||#SM0805=2||@Value=56||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 56K||#SM0805=2||@Value=56K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 68||#SM0805=2||@Value=68||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 68K||#SM0805=2||@Value=68K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 82||#SM0805=2||@Value=82||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 82K||#SM0805=2||@Value=82K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 100||#SM0805=2||@Value=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 100K||#SM0805=2||@Value=100K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 120||#SM0805=2||@Value=120||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 120K||#SM0805=2||@Value=120K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 150||#SM0805=2||@Value=150||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 150K||#SM0805=2||@Value=150K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 180||#SM0805=2||@Value=180||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 180K||#SM0805=2||@Value=180K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 220||#SM0805=2||@Value=220||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 220K||#SM0805=2||@Value=220K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 270||#SM0805=2||@Value=270||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 270K||#SM0805=2||@Value=270K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 330||#SM0805=2||@Value=330||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 330K||#SM0805=2||@Value=330K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 390||#SM0805=2||@Value=390||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 390K||#SM0805=2||@Value=390K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 470||#SM0805=2||@Value=470||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 470K||#SM0805=2||@Value=470K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 560||#SM0805=2||@Value=560||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 560K||#SM0805=2||@Value=560K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 680||#SM0805=2||@Value=680||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 680K||#SM0805=2||@Value=680K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 820||#SM0805=2||@Value=820||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.1W SMTF 820K||#SM0805=2||@Value=820K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.0K||#R 0.600=2||@Value=1.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.0M||#R 0.600=2||@Value=1.0M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.1K||#R 0.600=2||@Value=1.1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.1M||#R 0.600=2||@Value=1.1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.2K||#R 0.600=2||@Value=1.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.2M||#R 0.600=2||@Value=1.2M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.3K||#R 0.600=2||@Value=1.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.3M||#R 0.600=2||@Value=1.3M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.5K||#R 0.600=2||@Value=1.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.5M||#R 0.600=2||@Value=1.5M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.6K||#R 0.600=2||@Value=1.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.6M||#R 0.600=2||@Value=1.6M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.8K||#R 0.600=2||@Value=1.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 1.8M||#R 0.600=2||@Value=1.8M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 2.0K||#R 0.600=2||@Value=2.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 2.0M||#R 0.600=2||@Value=2.0M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 2.2K||#R 0.600=2||@Value=2.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 2.2M||#R 0.600=2||@Value=2.2M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 2.4K||#R 0.600=2||@Value=2.4K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 2.4M||#R 0.600=2||@Value=2.4M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 2.7K||#R 0.600=2||@Value=2.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 2.7M||#R 0.600=2||@Value=2.7M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 3.0K||#R 0.600=2||@Value=3.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 3.0M||#R 0.600=2||@Value=3.0M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 3.3K||#R 0.600=2||@Value=3.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 3.3M||#R 0.600=2||@Value=3.3M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 3.6K||#R 0.600=2||@Value=3.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 3.6M||#R 0.600=2||@Value=3.6M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 3.9K||#R 0.600=2||@Value=3.9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 3.9M||#R 0.600=2||@Value=3.9M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 4.3K||#R 0.600=2||@Value=4.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 4.3M||#R 0.600=2||@Value=4.3M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 4.7K||#R 0.600=2||@Value=4.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 4.7M||#R 0.600=2||@Value=4.7M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 5.1K||#R 0.600=2||@Value=5.1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 5.1M||#R 0.600=2||@Value=5.1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 5.6K||#R 0.600=2||@Value=5.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 5.6M||#R 0.600=2||@Value=5.6M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 6.2K||#R 0.600=2||@Value=6.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 6.2M||#R 0.600=2||@Value=6.2M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 6.8K||#R 0.600=2||@Value=6.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 6.8M||#R 0.600=2||@Value=6.8M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 7.5K||#R 0.600=2||@Value=7.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 7.5M||#R 0.600=2||@Value=7.5M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 8.2K||#R 0.600=2||@Value=8.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 8.2M||#R 0.600=2||@Value=8.2M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 9.1K||#R 0.600=2||@Value=9.1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 9.1M||#R 0.600=2||@Value=9.1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 10||#R 0.600=2||@Value=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 10K||#R 0.600=2||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 10M||#R 0.600=2||@Value=10M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 11||#R 0.600=2||@Value=11||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 11K||#R 0.600=2||@Value=11K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 12||#R 0.600=2||@Value=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 12K||#R 0.600=2||@Value=12K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 13||#R 0.600=2||@Value=13||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 13K||#R 0.600=2||@Value=13K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 15||#R 0.600=2||@Value=15||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 15K||#R 0.600=2||@Value=15K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 16||#R 0.600=2||@Value=16||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 16K||#R 0.600=2||@Value=16K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 18||#R 0.600=2||@Value=18||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 18K||#R 0.600=2||@Value=18K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 20||#R 0.600=2||@Value=20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 20K||#R 0.600=2||@Value=20K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 22||#R 0.600=2||@Value=22||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 22K||#R 0.600=2||@Value=22K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 24||#R 0.600=2||@Value=24||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 24K||#R 0.600=2||@Value=24K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 27||#R 0.600=2||@Value=27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 27K||#R 0.600=2||@Value=27K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 30||#R 0.600=2||@Value=30||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 30K||#R 0.600=2||@Value=30K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 33||#R 0.600=2||@Value=33||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 33K||#R 0.600=2||@Value=33K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 36||#R 0.600=2||@Value=36||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 36K||#R 0.600=2||@Value=36K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 39||#R 0.600=2||@Value=39||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 39K||#R 0.600=2||@Value=39K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 43||#R 0.600=2||@Value=43||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 43K||#R 0.600=2||@Value=43K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 47||#R 0.600=2||@Value=47||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 47K||#R 0.600=2||@Value=47K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 51||#R 0.600=2||@Value=51||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 51K||#R 0.600=2||@Value=51K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 56||#R 0.600=2||@Value=56||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 56K||#R 0.600=2||@Value=56K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 62||#R 0.600=2||@Value=62||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 62K||#R 0.600=2||@Value=62K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 68||#R 0.600=2||@Value=68||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 68K||#R 0.600=2||@Value=68K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 75||#R 0.600=2||@Value=75||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 75K||#R 0.600=2||@Value=75K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 82||#R 0.600=2||@Value=82||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 82K||#R 0.600=2||@Value=82K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 91||#R 0.600=2||@Value=91||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 91K||#R 0.600=2||@Value=91K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 100||#R 0.600=2||@Value=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 100K||#R 0.600=2||@Value=100K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 110||#R 0.600=2||@Value=110||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 110K||#R 0.600=2||@Value=110K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 120||#R 0.600=2||@Value=120||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 120K||#R 0.600=2||@Value=120K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 130||#R 0.600=2||@Value=130||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 130K||#R 0.600=2||@Value=130K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 150||#R 0.600=2||@Value=150||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 150K||#R 0.600=2||@Value=150K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 160||#R 0.600=2||@Value=160||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 160K||#R 0.600=2||@Value=160K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 180||#R 0.600=2||@Value=180||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 180K||#R 0.600=2||@Value=180K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 200||#R 0.600=2||@Value=200||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 200K||#R 0.600=2||@Value=200K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 220||#R 0.600=2||@Value=220||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 220K||#R 0.600=2||@Value=220K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 240||#R 0.600=2||@Value=240||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 240K||#R 0.600=2||@Value=240K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 270||#R 0.600=2||@Value=270||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 270K||#R 0.600=2||@Value=270K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 300||#R 0.600=2||@Value=300||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 300K||#R 0.600=2||@Value=300K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 330||#R 0.600=2||@Value=330||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 330K||#R 0.600=2||@Value=330K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 360||#R 0.600=2||@Value=360||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 360K||#R 0.600=2||@Value=360K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 390||#R 0.600=2||@Value=390||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 390K||#R 0.600=2||@Value=390K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 430||#R 0.600=2||@Value=430||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 430K||#R 0.600=2||@Value=430K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 470||#R 0.600=2||@Value=470||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 470K||#R 0.600=2||@Value=470K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 510||#R 0.600=2||@Value=510||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 510K||#R 0.600=2||@Value=510K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 560||#R 0.600=2||@Value=560||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 560K||#R 0.600=2||@Value=560K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 620||#R 0.600=2||@Value=620||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 620K||#R 0.600=2||@Value=620K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 680||#R 0.600=2||@Value=680||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 680K||#R 0.600=2||@Value=680K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 750||#R 0.600=2||@Value=750||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 750K||#R 0.600=2||@Value=750K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 820||#R 0.600=2||@Value=820||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 820K||#R 0.600=2||@Value=820K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 910||#R 0.600=2||@Value=910||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.5W 5% MCF 910K||#R 0.600=2||@Value=910K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.0K||#R 0.500=2||@Value=1.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.0M||#R 0.500=2||@Value=1.0M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.1K||#R 0.500=2||@Value=1.1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.1M||#R 0.500=2||@Value=1.1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.2K||#R 0.500=2||@Value=1.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.2M||#R 0.500=2||@Value=1.2M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.3K||#R 0.500=2||@Value=1.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.3M||#R 0.500=2||@Value=1.3M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.5K||#R 0.500=2||@Value=1.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.5M||#R 0.500=2||@Value=1.5M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.6K||#R 0.500=2||@Value=1.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.6M||#R 0.500=2||@Value=1.6M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.8K||#R 0.500=2||@Value=1.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 1.8M||#R 0.500=2||@Value=1.8M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 2.0K||#R 0.500=2||@Value=2.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 2.0M||#R 0.500=2||@Value=2.0M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 2.2K||#R 0.500=2||@Value=2.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 2.2M||#R 0.500=2||@Value=2.2M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 2.4K||#R 0.500=2||@Value=2.4K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 2.4M||#R 0.500=2||@Value=2.4M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 2.7K||#R 0.500=2||@Value=2.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 2.7M||#R 0.500=2||@Value=2.7M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 3.0K||#R 0.500=2||@Value=3.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 3.0M||#R 0.500=2||@Value=3.0M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 3.3K||#R 0.500=2||@Value=3.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 3.3M||#R 0.500=2||@Value=3.3M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 3.6K||#R 0.500=2||@Value=3.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 3.6M||#R 0.500=2||@Value=3.6M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 3.9K||#R 0.500=2||@Value=3.9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 3.9M||#R 0.500=2||@Value=3.9M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 4.3K||#R 0.500=2||@Value=4.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 4.3M||#R 0.500=2||@Value=4.3M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 4.7K||#R 0.500=2||@Value=4.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 4.7M||#R 0.500=2||@Value=4.7M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 5.1K||#R 0.500=2||@Value=5.1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 5.1M||#R 0.500=2||@Value=5.1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 5.6K||#R 0.500=2||@Value=5.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 5.6M||#R 0.500=2||@Value=5.6M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 6.2K||#R 0.500=2||@Value=6.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 6.2M||#R 0.500=2||@Value=6.2M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 6.8K||#R 0.500=2||@Value=6.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 6.8M||#R 0.500=2||@Value=6.8M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 7.5K||#R 0.500=2||@Value=7.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 7.5M||#R 0.500=2||@Value=7.5M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 8.2K||#R 0.500=2||@Value=8.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 8.2M||#R 0.500=2||@Value=8.2M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 9.1K||#R 0.500=2||@Value=9.1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 9.1M||#R 0.500=2||@Value=9.1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 10||#R 0.500=2||@Value=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 10K||#R 0.500=2||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 10M||#R 0.500=2||@Value=10M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 11||#R 0.500=2||@Value=11||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 11K||#R 0.500=2||@Value=11K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 12||#R 0.500=2||@Value=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 12K||#R 0.500=2||@Value=12K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 13||#R 0.500=2||@Value=13||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 13K||#R 0.500=2||@Value=13K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 15||#R 0.500=2||@Value=15||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 15K||#R 0.500=2||@Value=15K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 16||#R 0.500=2||@Value=16||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 16K||#R 0.500=2||@Value=16K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 18||#R 0.500=2||@Value=18||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 18K||#R 0.500=2||@Value=18K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 20||#R 0.500=2||@Value=20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 20K||#R 0.500=2||@Value=20K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 22||#R 0.500=2||@Value=22||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 22K||#R 0.500=2||@Value=22K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 24||#R 0.500=2||@Value=24||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 24K||#R 0.500=2||@Value=24K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 27||#R 0.500=2||@Value=27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 27K||#R 0.500=2||@Value=27K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 30||#R 0.500=2||@Value=30||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 30K||#R 0.500=2||@Value=30K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 33||#R 0.500=2||@Value=33||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 33K||#R 0.500=2||@Value=33K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 36||#R 0.500=2||@Value=36||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 36K||#R 0.500=2||@Value=36K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 39||#R 0.500=2||@Value=39||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 39K||#R 0.500=2||@Value=39K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 43||#R 0.500=2||@Value=43||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 43K||#R 0.500=2||@Value=43K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 47||#R 0.500=2||@Value=47||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 47K||#R 0.500=2||@Value=47K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 51||#R 0.500=2||@Value=51||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 51K||#R 0.500=2||@Value=51K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 56||#R 0.500=2||@Value=56||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 56K||#R 0.500=2||@Value=56K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 62||#R 0.500=2||@Value=62||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 62K||#R 0.500=2||@Value=62K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 68||#R 0.500=2||@Value=68||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 68K||#R 0.500=2||@Value=68K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 75||#R 0.500=2||@Value=75||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 75K||#R 0.500=2||@Value=75K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 82||#R 0.500=2||@Value=82||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 82K||#R 0.500=2||@Value=82K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 91||#R 0.500=2||@Value=91||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 91K||#R 0.500=2||@Value=91K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 100||#R 0.500=2||@Value=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 100K||#R 0.500=2||@Value=100K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 110||#R 0.500=2||@Value=110||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 110K||#R 0.500=2||@Value=110K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 120||#R 0.500=2||@Value=120||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 120K||#R 0.500=2||@Value=120K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 130||#R 0.500=2||@Value=130||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 130K||#R 0.500=2||@Value=130K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 150||#R 0.500=2||@Value=150||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 150K||#R 0.500=2||@Value=150K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 160||#R 0.500=2||@Value=160||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 160K||#R 0.500=2||@Value=160K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 180||#R 0.500=2||@Value=180||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 180K||#R 0.500=2||@Value=180K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 200||#R 0.500=2||@Value=200||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 200K||#R 0.500=2||@Value=200K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 220||#R 0.500=2||@Value=220||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 220K||#R 0.500=2||@Value=220K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 240||#R 0.500=2||@Value=240||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 240K||#R 0.500=2||@Value=240K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 270||#R 0.500=2||@Value=270||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 270K||#R 0.500=2||@Value=270K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 300||#R 0.500=2||@Value=300||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 300K||#R 0.500=2||@Value=300K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 330||#R 0.500=2||@Value=330||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 330K||#R 0.500=2||@Value=330K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 360||#R 0.500=2||@Value=360||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 360K||#R 0.500=2||@Value=360K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 390||#R 0.500=2||@Value=390||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 390K||#R 0.500=2||@Value=390K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 430||#R 0.500=2||@Value=430||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 430K||#R 0.500=2||@Value=430K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 470||#R 0.500=2||@Value=470||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 470K||#R 0.500=2||@Value=470K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 510||#R 0.500=2||@Value=510||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 510K||#R 0.500=2||@Value=510K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 560||#R 0.500=2||@Value=560||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 560K||#R 0.500=2||@Value=560K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 620||#R 0.500=2||@Value=620||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 620K||#R 0.500=2||@Value=620K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 680||#R 0.500=2||@Value=680||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 680K||#R 0.500=2||@Value=680K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 750||#R 0.500=2||@Value=750||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 750K||#R 0.500=2||@Value=750K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 820||#R 0.500=2||@Value=820||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 820K||#R 0.500=2||@Value=820K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 910||#R 0.500=2||@Value=910||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W 5% MCF 910K||#R 0.500=2||@Value=910K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 0||#SM1206=2||@Value=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 1.0K||#SM1206=2||@Value=1.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 1M||#SM1206=2||@Value=1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 1.2K||#SM1206=2||@Value=1.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 1.5K||#SM1206=2||@Value=1.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 1.8K||#SM1206=2||@Value=1.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 2.2K||#SM1206=2||@Value=2.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 2.7K||#SM1206=2||@Value=2.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 3K||#SM1206=2||@Value=3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 3.3K||#SM1206=2||@Value=3.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 3.9K||#SM1206=2||@Value=3.9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 4.7K||#SM1206=2||@Value=4.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 5.6K||#SM1206=2||@Value=5.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 6.8K||#SM1206=2||@Value=6.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 8.2K||#SM1206=2||@Value=8.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 9K||#SM1206=2||@Value=9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 10||#SM1206=2||@Value=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 10K||#SM1206=2||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 12||#SM1206=2||@Value=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 12K||#SM1206=2||@Value=12K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 15||#SM1206=2||@Value=15||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 15K||#SM1206=2||@Value=15K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 18||#SM1206=2||@Value=18||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 18K||#SM1206=2||@Value=18K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 22||#SM1206=2||@Value=22||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 22K||#SM1206=2||@Value=22K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 27||#SM1206=2||@Value=27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 27K||#SM1206=2||@Value=27K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 33||#SM1206=2||@Value=33||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 39||#SM1206=2||@Value=39||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 47||#SM1206=2||@Value=47||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 47K||#SM1206=2||@Value=47K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 56||#SM1206=2||@Value=56||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 56K||#SM1206=2||@Value=56K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 68||#SM1206=2||@Value=68||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 68K||#SM1206=2||@Value=68K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 82||#SM1206=2||@Value=82||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 82K||#SM1206=2||@Value=82K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 100||#SM1206=2||@Value=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 100K||#SM1206=2||@Value=100K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 120||#SM1206=2||@Value=120||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 120K||#SM1206=2||@Value=120K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 150||#SM1206=2||@Value=150||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 150K||#SM1206=2||@Value=150K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 180||#SM1206=2||@Value=180||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 180K||#SM1206=2||@Value=180K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 220||#SM1206=2||@Value=220||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 220K||#SM1206=2||@Value=220K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 270||#SM1206=2||@Value=270||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 270K||#SM1206=2||@Value=270K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 330||#SM1206=2||@Value=330||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 330K||#SM1206=2||@Value=330K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 390||#SM1206=2||@Value=390||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 390K||#SM1206=2||@Value=390K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 470||#SM1206=2||@Value=470||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 470K||#SM1206=2||@Value=470K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 560||#SM1206=2||@Value=560||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 560K||#SM1206=2||@Value=560K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 680||#SM1206=2||@Value=680||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 680K||#SM1206=2||@Value=680K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 820||#SM1206=2||@Value=820||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.25W SMTF 820K||#SM1206=2||@Value=820K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 0||#SM0603=2||@Value=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 1.0K||#SM0603=2||@Value=1.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 1M||#SM0603=2||@Value=1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 1.2K||#SM0603=2||@Value=1.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 1.5K||#SM0603=2||@Value=1.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 1.8K||#SM0603=2||@Value=1.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 2.2K||#SM0603=2||@Value=2.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 2.7K||#SM0603=2||@Value=2.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 3K||#SM0603=2||@Value=3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 3.3K||#SM0603=2||@Value=3.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 3.9K||#SM0603=2||@Value=3.9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 4.7K||#SM0603=2||@Value=4.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 5.6K||#SM0603=2||@Value=5.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 6.8K||#SM0603=2||@Value=6.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 8.2K||#SM0603=2||@Value=8.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 9K||#SM0603=2||@Value=9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 10||#SM0603=2||@Value=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 10K||#SM0603=2||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 12||#SM0603=2||@Value=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 12K||#SM0603=2||@Value=12K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 15||#SM0603=2||@Value=15||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 15K||#SM0603=2||@Value=15K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 18||#SM0603=2||@Value=18||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 18K||#SM0603=2||@Value=18K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 22||#SM0603=2||@Value=22||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 22K||#SM0603=2||@Value=22K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 27||#SM0603=2||@Value=27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 27K||#SM0603=2||@Value=27K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 33||#SM0603=2||@Value=33||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 39||#SM0603=2||@Value=39||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 47||#SM0603=2||@Value=47||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 47K||#SM0603=2||@Value=47K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 56||#SM0603=2||@Value=56||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 56K||#SM0603=2||@Value=56K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 68||#SM0603=2||@Value=68||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 68K||#SM0603=2||@Value=68K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 82||#SM0603=2||@Value=82||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 82K||#SM0603=2||@Value=82K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 100||#SM0603=2||@Value=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 100K||#SM0603=2||@Value=100K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 120||#SM0603=2||@Value=120||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 120K||#SM0603=2||@Value=120K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 150||#SM0603=2||@Value=150||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 150K||#SM0603=2||@Value=150K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 180||#SM0603=2||@Value=180||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 180K||#SM0603=2||@Value=180K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 220||#SM0603=2||@Value=220||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 220K||#SM0603=2||@Value=220K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 270||#SM0603=2||@Value=270||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 270K||#SM0603=2||@Value=270K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 330||#SM0603=2||@Value=330||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 330K||#SM0603=2||@Value=330K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 390||#SM0603=2||@Value=390||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 390K||#SM0603=2||@Value=390K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 470||#SM0603=2||@Value=470||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 470K||#SM0603=2||@Value=470K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 560||#SM0603=2||@Value=560||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 560K||#SM0603=2||@Value=560K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 680||#SM0603=2||@Value=680||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 680K||#SM0603=2||@Value=680K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 820||#SM0603=2||@Value=820||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.063W SMTF 820K||#SM0603=2||@Value=820K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 1% MF 10||#R 0.400=2||@Value=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 1.0||#R 0.400=2||@Value=1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 1.0K||#R 0.400=2||@Value=1.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 1M||#R 0.400=2||@Value=1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 1.2||#R 0.400=2||@Value=1.2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 1.2K||#R 0.400=2||@Value=1.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 1.5||#R 0.400=2||@Value=1.5||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 1.5K||#R 0.400=2||@Value=1.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 1.8||#R 0.400=2||@Value=1.8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 1.8K||#R 0.400=2||@Value=1.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 2.2||#R 0.400=2||@Value=2.2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 2.2K||#R 0.400=2||@Value=2.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 2.7||#R 0.400=2||@Value=2.7||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 2.7K||#R 0.400=2||@Value=2.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 3.3||#R 0.400=2||@Value=3.3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 3.3K||#R 0.400=2||@Value=3.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 3.9||#R 0.400=2||@Value=3.9||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 3.9K||#R 0.400=2||@Value=3.9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 4.7||#R 0.400=2||@Value=4.7||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 4.7K||#R 0.400=2||@Value=4.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 5.6||#R 0.400=2||@Value=5.6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 5.6K||#R 0.400=2||@Value=5.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 6.8||#R 0.400=2||@Value=6.8||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 6.8K||#R 0.400=2||@Value=6.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 8.2||#R 0.400=2||@Value=8.2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 8.2K||#R 0.400=2||@Value=8.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 10||#R 0.400=2||@Value=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 10K||#R 0.400=2||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 12||#R 0.400=2||@Value=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 12K||#R 0.400=2||@Value=12K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 15||#R 0.400=2||@Value=15||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 15K||#R 0.400=2||@Value=15K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 18||#R 0.400=2||@Value=18||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 18K||#R 0.400=2||@Value=18K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 22||#R 0.400=2||@Value=22||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 22K||#R 0.400=2||@Value=22K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 27||#R 0.400=2||@Value=27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 27K||#R 0.400=2||@Value=27K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 33||#R 0.400=2||@Value=33||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 33K||#R 0.400=2||@Value=33K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 39||#R 0.400=2||@Value=39||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 39K||#R 0.400=2||@Value=39K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 47||#R 0.400=2||@Value=47||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 47K||#R 0.400=2||@Value=47K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 56||#R 0.400=2||@Value=56||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 56K||#R 0.400=2||@Value=56K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 68||#R 0.400=2||@Value=68||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 68K||#R 0.400=2||@Value=68K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 82||#R 0.400=2||@Value=82||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 82K||#R 0.400=2||@Value=82K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 100||#R 0.400=2||@Value=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 100K||#R 0.400=2||@Value=100K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 120||#R 0.400=2||@Value=120||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 120K||#R 0.400=2||@Value=120K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 150||#R 0.400=2||@Value=150||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 150K||#R 0.400=2||@Value=150K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 180||#R 0.400=2||@Value=180||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 180K||#R 0.400=2||@Value=180K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 220||#R 0.400=2||@Value=220||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 220K||#R 0.400=2||@Value=220K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 270||#R 0.400=2||@Value=270||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 270K||#R 0.400=2||@Value=270K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 330||#R 0.400=2||@Value=330||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 330K||#R 0.400=2||@Value=330K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 390||#R 0.400=2||@Value=390||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 390K||#R 0.400=2||@Value=390K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 470||#R 0.400=2||@Value=470||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 470K||#R 0.400=2||@Value=470K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 560||#R 0.400=2||@Value=560||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 560K||#R 0.400=2||@Value=560K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 680||#R 0.400=2||@Value=680||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 680K||#R 0.400=2||@Value=680K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 820||#R 0.400=2||@Value=820||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MCF 820K||#R 0.400=2||@Value=820K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 1K||#R 0.400=2||@Value=1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 1.1K||#R 0.400=2||@Value=1.1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 1.2K||#R 0.400=2||@Value=1.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 1.3K||#R 0.400=2||@Value=1.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 1.5K||#R 0.400=2||@Value=1.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 1.6K||#R 0.400=2||@Value=1.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 1.8K||#R 0.400=2||@Value=1.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 2K||#R 0.400=2||@Value=2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 2.2K||#R 0.400=2||@Value=2.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 2.4K||#R 0.400=2||@Value=2.4K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 2.7K||#R 0.400=2||@Value=2.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 3K||#R 0.400=2||@Value=3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 3.3K||#R 0.400=2||@Value=3.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 3.6K||#R 0.400=2||@Value=3.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 3.9K||#R 0.400=2||@Value=3.9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 4.3K||#R 0.400=2||@Value=4.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 4.7K||#R 0.400=2||@Value=4.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 5.1K||#R 0.400=2||@Value=5.1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 5.6K||#R 0.400=2||@Value=5.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 6.2K||#R 0.400=2||@Value=6.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 6.8K||#R 0.400=2||@Value=6.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 7.5K||#R 0.400=2||@Value=7.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 8.2K||#R 0.400=2||@Value=8.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 9.1K||#R 0.400=2||@Value=9.1K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 10||#R 0.400=2||@Value=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 10K||#R 0.400=2||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 11||#R 0.400=2||@Value=11||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 12||#R 0.400=2||@Value=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 13||#R 0.400=2||@Value=13||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 15||#R 0.400=2||@Value=15||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 16||#R 0.400=2||@Value=16||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 18||#R 0.400=2||@Value=18||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 20||#R 0.400=2||@Value=20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 22||#R 0.400=2||@Value=22||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 24||#R 0.400=2||@Value=24||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 27||#R 0.400=2||@Value=27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 30||#R 0.400=2||@Value=30||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 33||#R 0.400=2||@Value=33||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 36||#R 0.400=2||@Value=36||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 39||#R 0.400=2||@Value=39||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 43||#R 0.400=2||@Value=43||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 47||#R 0.400=2||@Value=47||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 51||#R 0.400=2||@Value=51||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 56||#R 0.400=2||@Value=56||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 62||#R 0.400=2||@Value=62||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 68||#R 0.400=2||@Value=68||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 75||#R 0.400=2||@Value=75||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 82||#R 0.400=2||@Value=82||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 91||#R 0.400=2||@Value=91||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 100||#R 0.400=2||@Value=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 110||#R 0.400=2||@Value=110||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 120||#R 0.400=2||@Value=120||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 130||#R 0.400=2||@Value=130||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 150||#R 0.400=2||@Value=150||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 160||#R 0.400=2||@Value=160||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 180||#R 0.400=2||@Value=180||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 200||#R 0.400=2||@Value=200||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 220||#R 0.400=2||@Value=220||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 240||#R 0.400=2||@Value=240||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 270||#R 0.400=2||@Value=270||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 300||#R 0.400=2||@Value=300||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 330||#R 0.400=2||@Value=330||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 360||#R 0.400=2||@Value=360||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 390||#R 0.400=2||@Value=390||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 430||#R 0.400=2||@Value=430||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 470||#R 0.400=2||@Value=470||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 510||#R 0.400=2||@Value=510||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 560||#R 0.400=2||@Value=560||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 620||#R 0.400=2||@Value=620||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 680||#R 0.400=2||@Value=680||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 750||#R 0.400=2||@Value=750||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 820||#R 0.400=2||@Value=820||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W 5% MF 910||#R 0.400=2||@Value=910||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 0||#SM1206=2||@Value=0||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 1.0K||#SM1206=2||@Value=1.0K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 1M||#SM1206=2||@Value=1M||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 1.2K||#SM1206=2||@Value=1.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 1.5K||#SM1206=2||@Value=1.5K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 1.8K||#SM1206=2||@Value=1.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 2.2K||#SM1206=2||@Value=2.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 2.7K||#SM1206=2||@Value=2.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 3K||#SM1206=2||@Value=3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 3.3K||#SM1206=2||@Value=3.3K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 3.9K||#SM1206=2||@Value=3.9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 4.7K||#SM1206=2||@Value=4.7K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 5.6K||#SM1206=2||@Value=5.6K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 6.8K||#SM1206=2||@Value=6.8K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 8.2K||#SM1206=2||@Value=8.2K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 9K||#SM1206=2||@Value=9K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 10||#SM1206=2||@Value=10||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 10K||#SM1206=2||@Value=10K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 12||#SM1206=2||@Value=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 12K||#SM1206=2||@Value=12K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 15||#SM1206=2||@Value=15||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 15K||#SM1206=2||@Value=15K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 18||#SM1206=2||@Value=18||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 18K||#SM1206=2||@Value=18K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 22||#SM1206=2||@Value=22||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 22K||#SM1206=2||@Value=22K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 27||#SM1206=2||@Value=27||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 27K||#SM1206=2||@Value=27K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 33||#SM1206=2||@Value=33||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 39||#SM1206=2||@Value=39||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 47||#SM1206=2||@Value=47||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 47K||#SM1206=2||@Value=47K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 56||#SM1206=2||@Value=56||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 56K||#SM1206=2||@Value=56K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 68||#SM1206=2||@Value=68||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 68K||#SM1206=2||@Value=68K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 82||#SM1206=2||@Value=82||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 82K||#SM1206=2||@Value=82K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 100||#SM1206=2||@Value=100||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 100K||#SM1206=2||@Value=100K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 120||#SM1206=2||@Value=120||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 120K||#SM1206=2||@Value=120K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 150||#SM1206=2||@Value=150||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 150K||#SM1206=2||@Value=150K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 180||#SM1206=2||@Value=180||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 180K||#SM1206=2||@Value=180K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 220||#SM1206=2||@Value=220||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 220K||#SM1206=2||@Value=220K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 270||#SM1206=2||@Value=270||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 270K||#SM1206=2||@Value=270K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 330||#SM1206=2||@Value=330||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 330K||#SM1206=2||@Value=330K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 390||#SM1206=2||@Value=390||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 390K||#SM1206=2||@Value=390K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 470||#SM1206=2||@Value=470||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 470K||#SM1206=2||@Value=470K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 560||#SM1206=2||@Value=560||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 560K||#SM1206=2||@Value=560K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 680||#SM1206=2||@Value=680||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 680K||#SM1206=2||@Value=680K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 820||#SM1206=2||@Value=820||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R 0.125W SMTF 820K||#SM1206=2||@Value=820K||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0204/2V||#0204V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0204/5||#0204	5=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0204/7||#0204	7=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0207/2V||#0207	2V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0207/5V||#0207	5V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0207/7||#0207	7=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0207/10||#0207	10=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0207/12||#0207	12=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0207/15||#0207	15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0309/10||#0309	10=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0309/12||#0309	12=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0309/V||#0309V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0411/3V||#0411V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0411/12||#0411	12=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0411/15||#0411	15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0414/5V||#0414V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0414/15||#0414	15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0613/5V||#P0613V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0613/15||#P0613	15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0617/5V||#0617V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0617/17||#0617	17=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0617/22||#0617	22=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0817/7V||#P0817V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0817/22||#P0817	22=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0922/22||#0922	22=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_0922V||#0922V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_M0805||#M0805=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_M1206||#M1206=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_M1406||#M1406=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_M2012||#M2012=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_M2309||#M2309=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_M3216||#M3216=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_M3516||#M3516=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_M5923||#M5923=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_MELF0102AX||#MINI_MELF-0102AX=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_MELF0102R||#MINI_MELF-0102R=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_MELF0102W||#MINI_MELF-0102W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_MELF0204R||#MINI_MELF-0204R=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_MELF0204W||#MINI_MELF-0204W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_MELF0207R||#MINI_MELF-0207R=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_MELF0207W||#MINI_MELF-0207W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R0402||#R0402=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R0603||#R0603=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R0805||#R0805=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R0805W||#R0805W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R1005||#R1005=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R1206||#R1206=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R1206W||#R1206W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R1210||#R1210=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R1210W||#R1210W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R2010||#R2010=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R2010W||#R2010W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R2012||#R2012=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R2012W||#R2012W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R2512||#R2512=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R2512W||#R2512W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R3216||#R3216=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R3216W||#R3216W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R3225||#R3225=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R3225W||#R3225W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R5025||#R5025=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R5025W||#R5025W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R6332||#R6332=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_R6332W||#R6332W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_RDH/15||#RDH	15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_V234/12||#V234	12=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_V235/17||#V235	17=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-EU_V526-0||#V526-0=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM4G/J||#RTRIM4G	J=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM5W||#RTRIM5W=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM5X||#RTRIM5X=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM43P||#RTRIM43P=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM64P||#RTRIM64P=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM64W||#RTRIM64W=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM64X||#RTRIM64X=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM64Y||#RTRIM64Y=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM64Z||#RTRIM64Z=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM70Y||#RTRIM70Y=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM74W||#RTRIM74W=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM74X||#RTRIM74X=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3006P||#RTRIM3006P=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3059Y||#RTRIM3059Y=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3103||#RTRIM3103=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3165W||#RTRIM3165W=5||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3202||#RTRIM3202=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3214W||#RTRIM3214W=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3224G||#RTRIM3224G=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3224J||#RTRIM3224J=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3224W||#RTRIM3224W=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3224X||#RTRIM3224X=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3296P||#RTRIM3296P=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3296W||#RTRIM3296W=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3296X||#RTRIM3296X=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3296Y||#RTRIM3296Y=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3299W||#RTRIM3299W=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3304W||#RTRIM3304W=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3314J||#RTRIM3314J=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3339P||#RTRIM3339P=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMM3374||#RTRIM3374=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMCVR42A||#RTRIMCVR42A=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMT18||#RTRIMT18=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMT93XA||#RTRIMT93XA=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMT93XB||#RTRIMT93XB=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMT93YA||#RTRIMT93YA=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMT93YB||#RTRIMT93YB=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMTS63X||#RTRIMTS63X=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMTS63Y||#RTRIMTS63Y=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMTS63Z||#RTRIMTS63Z=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMTSM53YJ||#RTRIMTSM53YJ=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-TRIMMTSM53YL||#RTRIMTSM53YL=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0204/2V||#0204V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0204/5||#0204	5=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0204/7||#0204	7=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0207/2V||#0207	2V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0207/5V||#0207	5V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0207/7||#0207	7=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0207/10||#0207	10=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0207/12||#0207	12=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0207/15||#0207	15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0309/10||#0309	10=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0309/12||#0309	12=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0309/V||#0309V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0411/3V||#0411V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0411/12||#0411	12=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0411/15||#0411	15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0414/5V||#0414V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0414/15||#0414	15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0613/5V||#P0613V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0613/15||#P0613	15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0617/5V||#0617V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0617/17||#0617	17=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0617/22||#0617	22=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0817/7V||#P0817V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0817/22||#P0817	22=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0922/22||#0922	22=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_0922V||#0922V=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_M0805||#M0805=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_M1206||#M1206=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_M1406||#M1406=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_M2012||#M2012=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_M2309||#M2309=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_M3216||#M3216=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_M3516||#M3516=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_M5923||#M5923=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_MELF0102AX||#MINI_MELF-0102AX=3||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_MELF0102R||#MINI_MELF-0102R=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_MELF0102W||#MINI_MELF-0102W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_MELF0204R||#MINI_MELF-0204R=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_MELF0204W||#MINI_MELF-0204W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_MELF0207R||#MINI_MELF-0207R=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_MELF0207W||#MINI_MELF-0207W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R0402||#R0402=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R0603||#R0603=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R0805||#R0805=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R0805W||#R0805W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R1005||#R1005=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R1206||#R1206=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R1206W||#R1206W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R1210||#R1210=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R1210W||#R1210W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R2010||#R2010=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R2010W||#R2010W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R2012||#R2012=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R2012W||#R2012W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R2512||#R2512=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R2512W||#R2512W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R3216||#R3216=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R3216W||#R3216W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R3225||#R3225=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R3225W||#R3225W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R5025||#R5025=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R5025W||#R5025W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R6332||#R6332=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_R6332W||#R6332W=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_RDH/15||#RDH	15=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_V234/12||#V234	12=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_V235/17||#V235	17=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+R-US_V526-0||#V526-0=2||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
